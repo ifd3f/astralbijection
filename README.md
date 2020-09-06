@@ -9,4 +9,4 @@ I'm Astrid and I like to code.
 - 💬 Ask me about my keyboard configuration
 - 📫 How to reach me: via email [astrid@astrid.tech](mailto:astrid@astrid.tech)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have never broken a bone before. I've sprained ankles before, though. <sup>oh no i've jinxed myself</sup>
+- ⚡ Fun fact: I have never broken a bone before. I've sprained ankles, though. <sup>oh no i've jinxed myself</sup>
