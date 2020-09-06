@@ -1,16 +1,12 @@
-### Hi there 👋
+### Howdy!
 
-<!--
-**Plenglin/Plenglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Astrid and I like to code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - [astrid.tech](https://astrid.tech), my website
+  - [bigfloat](https://github.com/Plenglin/bigfloat), an experimental high-performance high-precision floating point library
+- 🌱 I’m currently learning [Gatsby.js](https://www.gatsbyjs.com/) and ways to abuse C++ template metaprogramming
+- 💬 Ask me about my keyboard configuration
+- 📫 How to reach me: via email [astrid@astrid.tech](mailto:astrid@astrid.tech)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have never broken a bone before. I've sprained ankles before, though. <sup>oh no i've jinxed myself</sup>
