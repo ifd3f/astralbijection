@@ -11,4 +11,4 @@ I'm Astrid and I like to code.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have never broken a bone before. I've sprained ankles, though. <sup>oh no i've jinxed myself</sup>
 
-[![Astrid Yu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plenglin)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plenglin&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Astrid Yu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plenglin&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plenglin&layout=compact&hide=html&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
