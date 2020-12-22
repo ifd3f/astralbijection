@@ -5,7 +5,7 @@ I'm Astrid and I like to code.
 - 🔭 I’m currently working on:
   - Adding a Django backend for [astrid.tech](https://astrid.tech), my website
   - [HasCAS](https://github.com/plenglin/hascas), a computer algebra system written in Haskell
-- 🌱 I’m currently learning [Gatsby.js](https://www.gatsbyjs.com/) and ways to abuse C++ template metaprogramming
+- 🌱 I’m currently learning Docker and secure modern authentication methods
 - 📫 How to reach me:
   - via email [hi@astrid.tech](hi:astrid@astrid.tech)
   - connect with me on [LinkedIn](https://linkedin.com/in/astrid-a-yu)
