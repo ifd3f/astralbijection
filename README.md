@@ -7,7 +7,7 @@ I'm Astrid and I like to code.
   - [HasCAS](https://github.com/plenglin/hascas), a computer algebra system written in Haskell
 - 🌱 I’m currently learning Docker and secure modern authentication methods
 - 📫 How to reach me:
-  - via email [hi@astrid.tech](hi:astrid@astrid.tech)
+  - via email [astrid@astrid.tech](mailto:astrid@astrid.tech)
   - connect with me on [LinkedIn](https://linkedin.com/in/astrid-a-yu)
   - comment on a blog post or something on [my website](https://astrid.tech)
 - 😄 Pronouns: she/her
