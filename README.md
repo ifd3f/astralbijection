@@ -15,4 +15,4 @@ I'm Astrid and I like to code.
 
 [![Astrid Yu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plenglin)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plenglin&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plenglin&layout=compact&hide=html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
