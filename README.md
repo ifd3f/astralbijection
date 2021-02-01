@@ -2,8 +2,8 @@
 
 I'm Astrid and I like to code.
 
-- 🔭 I’m currently working on building a Kubernetes cluster at home.
-- 🌱 I’m currently learning Kubernetes and DevOps
+- 🔭 I’m currently building a Kubernetes cluster at home!
+- 🌱 I’m currently learning DevOps and web development.
 - 📫 How to reach me:
   - via email [astrid@astrid.tech](mailto:astrid@astrid.tech)
   - connect with me on [LinkedIn](https://linkedin.com/in/astrid-a-yu)
