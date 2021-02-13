@@ -2,7 +2,7 @@
 
 I'm Astrid and I like to code.
 
-- 🔭 I’m currently building a Kubernetes cluster at home!
+- 🔭 I’m currently building a Kubernetes cluster at home! [Learn more here](https://astrid.tech/projects/plebscale/)
 - 🌱 I’m currently learning DevOps and web development.
 - 📫 How to reach me:
   - via email [astrid@astrid.tech](mailto:astrid@astrid.tech)
