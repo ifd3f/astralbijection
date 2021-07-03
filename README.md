@@ -6,7 +6,6 @@ I'm Astrid and I like to code.
 - 🌱 I’m currently learning DevOps and web development.
 - 📫 How to reach me:
   - via email [astrid@astrid.tech](mailto:astrid@astrid.tech)
-  - connect with me on [LinkedIn](https://linkedin.com/in/astrid-a-yu)
   - comment on a blog post or something on [my website](https://astrid.tech)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have never broken a bone before. <sub>Though by stating this, I've jinxed myself...</sub>
